@@ -1,0 +1,72 @@
+body{
+  font-family: 'Alegreya Sans SC', sans-serif;
+  background-color:#010101;
+  color:#FDFEFE;
+}
+h1{
+	text-align:center;
+	font-weight:bold;
+	font-size:300%;
+}
+#p1{
+	font-size:160%;
+	text-align:justify;
+}
+.photo-virgil{
+    
+	position:absolute;
+	left:2px;
+    bottom:220px;
+
+}
+#p2{
+	font-size:160%;
+	text-align:justify;
+	position:relative;
+	left:500px
+}
+h2{
+	position:relative;
+	font-size:180%;
+	left:300px;
+	text-decoration:underline;
+}
+h3{
+	position:relative;
+	left:1000px;
+	top:350px;
+	font-size:180%;
+	text-decoration:underline;
+
+}
+.photo-virgil2{
+	position:absolute;
+	left:980px;
+    bottom:500px;
+	
+}
+h4{
+	position:relative;
+	font-size:100%;
+	left:1500px;
+	text-decoration:underline;
+	top:80px
+}
+.photo-virgil3{
+	position:absolute;
+	left:2px;
+    top:850px;
+}
+h5{
+	position:relative;
+	font-size:150%;
+	left:55px;
+	text-decoration:underline;
+	top:1px;
+}
+h6{
+	position:relative;
+	font-size:90%;
+	left:55px;
+	top:30px;
+}
